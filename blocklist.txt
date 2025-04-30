@@ -1,3 +1,5 @@
+[Adblock Plus]
+
 ||spismaty.co.in*
 *googlesyndication.com*
 ||getadblock.com*
